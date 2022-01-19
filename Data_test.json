@@ -1,0 +1,232 @@
+{
+    "Category": [
+        {
+            "SID":1,
+            "Name" : "Eye Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":2,
+            "Name" : "Body Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":3,
+            "Name" : "Face Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":4,
+            "Name" : "Oral Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":5,
+            "Name" : "Skin Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":6,
+            "Name" : "Hand and Feet Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID": 7,
+            "Name" : "Hair Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":11,
+            "Name" : "Mens Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":12,
+            "Name" : "Womens Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":13,
+            "Name" : "Baby Care",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":15,
+            "Name" : "Family Nutrition",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":16,
+            "Name" : "Health Food & Drinks",
+            "Image" : "https://imbb"
+        },
+        {
+            "SID":17,
+            "Name" : "Health Supliments",
+            "Image" : "https://imbb"
+        }
+    ],
+    "items":[
+        {
+            "ITEM_ID" : 1,
+            "Name" : "After Shave Lotion",
+            "SID": 11,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 20",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 2,
+            "Name" : "Bioderma Intensive Gel",
+            "SID": 2,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "BioDerma",
+            "PRICE": "USD 25",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 3,
+            "Name" : "Under Skin Eye Care",
+            "SID": 1,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Papay",
+            "PRICE": "USD 80",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 4,
+            "Name" : "Strawberry Face Wash",
+            "SID": 3,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 20",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 5,
+            "Name" : "Onion Hair Oil for Regrowth",
+            "SID": 7,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 98",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 6,
+            "Name" : "Hand Sanitizer 250ml",
+            "SID": 6,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 20",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 7,
+            "Name" : "Listerine Mint",
+            "SID": 4,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 98",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 8,
+            "Name" : "Oil-free Face Moisturizer",
+            "SID": 5,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 55",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 9,
+            "Name" : "Wild Grass After Shave",
+            "SID": 11,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 45",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 10,
+            "Name" : "Bikini Line Hair Removal Cream",
+            "SID": 12,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 13",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 11,
+            "Name" : "Infant Formula",
+            "SID": 13,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 12",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 13,
+            "Name" : "Whey Gold Standard",
+            "SID": 16,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 25",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 14,
+            "Name" : "Goli Apple Cider Vinegar",
+            "SID": 17,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 14",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 15,
+            "Name" : "catarest-eye-drops-10ml",
+            "SID": 1,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 5",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 16,
+            "Name" : "juicy-chemistry-damask Eye Cream",
+            "SID": 1,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 10",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        },
+        {
+            "ITEM_ID" : 17,
+            "Name" : "Dry Skin Cleansing Bar",
+            "SID": 2,
+            "IMAGE" : "https://immbd.images",
+            "MANUFACTURER": "Teekay",
+            "PRICE": "USD 3",
+            "AVAILABILITY": "In-Stock",
+            "DELIVERY": "1-2 Days"
+        }
+        
+    ]
+}
